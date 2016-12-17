@@ -65,7 +65,7 @@
   background: #675E4F !important; }
 
 .three-shade-col [class^="col-"]:nth-child(3) {
-  background: #7B8C6D !important; }
+  background: #4A5F5E !important; }
 
 .three-shade-col [class^="col-"]:nth-child(4) {
   background: #3A3326 !important; }
@@ -93,5 +93,5 @@
 
 .userEL427543 hr {
   border: 0;
-  border-top: 10px solid #3A3326;
+  border-top: 15px solid #3A3326;
   height: 1px; }
